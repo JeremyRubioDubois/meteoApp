@@ -1,0 +1,114 @@
+{
+	"0": {
+		"name": "Ciel dégagé",
+		"icon": "day.svg"
+	},
+	"1": {
+		"name": "Principalement clair",
+		"icon": "cloudy-day-1.svg"
+	},
+	"2": {
+		"name": "Partiellement nuageux",
+		"icon": "cloudy-day-2.svg"
+	},
+	"3": {
+		"name": "Couvert",
+		"icon": "cloudy-day-3.svg"
+	},
+	"45": {
+		"name": "Brouillard",
+		"icon": "rainy-1.svg"
+	},
+	"48": {
+		"name": "Brouillard givré",
+		"icon": "rainy-1.svg"
+	},
+	"51": {
+		"name": "Légère bruine",
+		"icon": "rainy-4.svg"
+	},
+	"53": {
+		"name": "Bruine modérée",
+		"icon": "rainy-5.svg"
+	},
+	"55": {
+		"name": "Bruine dense",
+		"icon": "rainy-5.svg"
+	},
+	"56": {
+		"name": "Bruine légère verglaçante",
+		"icon": "rainy-4.svg"
+	},
+	"57": {
+		"name": "Bruine dense verglaçante",
+		"icon": "rainy-5.svg"
+	},
+	"61": {
+		"name": "Pluie légère",
+		"icon": "rainy-1.svg"
+	},
+	"63": {
+		"name": "Pluie modérée",
+		"icon": "rainy-5.svg"
+	},
+	"65": {
+		"name": "Forte pluie",
+		"icon": "rainy-7.svg"
+	},
+	"66": {
+		"name": "Pluie légère verglaçante",
+		"icon": "rainy-1.svg"
+	},
+	"67": {
+		"name": "Pluie modérée verglaçante",
+		"icon": "rainy-5.svg"
+	},
+	"71": {
+		"name": "Légère chute de neige",
+		"icon": "snowy-1.svg"
+	},
+	"73": {
+		"name": "Chute de neige modérée",
+		"icon": "snowy-2.svg"
+	},
+	"75": {
+		"name": "Forte chute de neige",
+		"icon": "snowy-3.svg"
+	},
+	"77": {
+		"name": "Grèle",
+		"icon": "rainy-7.svg"
+	},
+	"80": {
+		"name": "Légères averses de pluie",
+		"icon": "rainy-7.svg"
+	},
+	"81": {
+		"name": "Averses de pluie modérées",
+		"icon": "rainy-7.svg"
+	},
+	"82": {
+		"name": "Averses de pluie violentes",
+		"icon": "rainy-7.svg"
+	},
+	"85": {
+		"name": "Légères averses de neige",
+		"icon": "snowy-6.svg"
+	},
+	"86": {
+		"name": "Fortes averses de neige",
+		"icon": "snowy-6.svg"
+	},
+	"95": {
+		"name": "Orage",
+		"icon": "thunder.svg"
+	},
+	"96": {
+		"name": "Orage",
+		"icon": "thunder.svg"
+	},
+	"99": {
+		"name": "Orage",
+		"icon": "thunder.svg"
+	}
+}
